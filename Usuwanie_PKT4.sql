@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS Oceny;
+DROP TABLE IF EXISTS Wyniki_naukowe;
+DROP TABLE IF EXISTS Wyniki_sportowe;
+DROP TABLE IF EXISTS Wyplata;
+DROP TABLE IF EXISTS Wniosek_o_stypendium_naukowe;
+DROP TABLE IF EXISTS Wniosek_o_stypendium_sportowe;
+DROP TABLE IF EXISTS Wniosek_o_stypendium_socjalne;
+DROP TABLE IF EXISTS Wniosek_o_stypendium;
+DROP TABLE IF EXISTS Pracownicy;
+DROP TABLE IF EXISTS Studenci;
